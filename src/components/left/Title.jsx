@@ -1,4 +1,4 @@
-import ImageComponent from '../ImageComponent'
+import ImageComponent from '../Image'
 
 const Title = (items) => {
     const props = {
